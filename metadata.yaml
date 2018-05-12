@@ -1,0 +1,34 @@
+_repo: Os-Bravos-do-Mindello--13-Romance-Historico_21290
+_version: 0.1.0
+alternative_title: "Os Bravos do Mindelo\r\nRomance Histórico"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fonseca, Faustino da
+    birthdate: 1871
+    deathdate: 1918
+    gutenberg_agent_id: '9835'
+    url: http://www.gutenberg.org/2009/agents/9835
+    wikipedia: http://pt.wikipedia.org/wiki/Faustino_Fonseca
+description: ''
+gutenberg_bookshelf: PT Romance
+gutenberg_issued: '2007-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21290'
+language: pt
+language_note: This ebook uses a spelling from the beginning of the 20th century
+production_note: "Produced by Ricardo F. Diogo, Christine P. Travers and the\r\nOnline\
+  \ Distributed Proofreading Team at http://www.pgdp.net"
+publication_note: "Lisboa:\r\nLivraria Editora Viuva Tavares Cardoso\r\n5--Largo de\
+  \ Camões--6\r\n1906"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portugal -- History -- Miguel I, 1828-1834 -- Fiction'
+title: "Os Bravos do Mindello\r\nRomance Historico"
+url: http://www.gutenberg.org/ebooks/21290
